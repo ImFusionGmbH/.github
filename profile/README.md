@@ -31,7 +31,9 @@ You will also find information in our [documentation](https://docs.imfusion.com)
 ## Research at ImFusion
 
 The following repos contain code and/or data for some of our recently published research:
-
+* [LiteTracker: Leveraging Temporal Causality for Accurate Low-latency Tissue Tracking](https://github.com/ImFusionGmbH/lite-tracker) (MICCAI 2025)
+* [HyperSORT: Self-Organising Robust Training with hyper-networks](https://github.com/ImFusionGmbH/HyperSORT) (MICCAI 2025)
+* [Beyond Shadows: Learning Physics-inspired Ultrasound Confidence Maps from Sparse Annotations](https://github.com/ImFusionGmbH/BeyondShadows) (MICCAI 2025)
 * [HyperSpace: Hypernetworks for spacing-adaptive image segmentation](https://github.com/ImFusionGmbH/HyperSpace) (MICCAI 2024)
 * [2D-3D Deformable Image Registration of Histology Slide and Micro-CT with ML-based Initialization](https://github.com/ImFusionGmbH/Histology-to-microCT-registration)
 * [DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration](https://github.com/ImFusionGmbH/DISA-universal-multimodal-registration) (MICCAI 2023)
